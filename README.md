@@ -4,6 +4,8 @@
 
 格式请自行转换
 
+[Github地址](https://github.com/PetalsOnaWet/lizhi/) 期望star扩散。问题与讨论可以直接提issues
+
 # 下载地址
 
 资源是保存在OneDrive，提供了压缩包和文件夹两种方式 可以 下载压缩包 也可以按照目录进入相应文件夹单个文件下载
